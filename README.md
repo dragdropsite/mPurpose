@@ -1,22 +1,18 @@
 # Multipurpose Twitter Bootstrap 3 template
 
----
-
-**mPurpose** is a free Twitter Bootstrap 3 template by [http://www.dragdropsite.com](http://www.dragdropsite.com)
+**mPurpose** is a free multipurpose Twitter Bootstrap 3 template by [http://www.dragdropsite.com](http://www.dragdropsite.com)
 
 **For More info** [click here](http://www.dragdropsite.com/freebies/mpurpose-free-multipurpose-twitter-bootstrap-3-template)
 
 **For Demo** [click here](http://demo.dragdropsite.com/mpurpose)
 
-Whether you need a Blog, Personal page, Landing page, Portfolio site, eCommerce site or Business site, **mPurpose** is here to help you ;) 
-
 ## Main Template Features
 
   * Responsive 
   * 5 pre-made Color Schemes and it’s easy to create your own ones 
-  * Feature Rich (many components, over 32 sample pages) 
+  * Feature Rich (a huge amount of components, over 30 sample pages) 
   * LESS
-  * Should support all Modern browsers
+  * Support for all modern browsers
   * Much more...
 
 ## About Documentation
@@ -32,11 +28,11 @@ Whether you need a Blog, Personal page, Landing page, Portfolio site, eCommerce 
 ###  General usage hints
 
   * Probably, the best way to use this template and its components is copy-paste technique :) 
-    1. Open HTML page containing a component you want to use (documentation will help you to find a necessary HTML file) 
-    2. Copy HTML 
-    3. Adjust HTML/JavaScript to your needs 
-    4. Make sure all dependencies are included (please check the documentation) 
-    5. Done 
+    * Open HTML page containing a component you want to use (documentation will help you to find a necessary HTML file) 
+    * Copy HTML 
+    * Adjust HTML/JavaScript to your needs 
+    * Make sure all dependencies are included (please check the documentation) 
+    * Done 
   * Almost all template components are wrapped into `<div class="section">...</div>`. It’s advised to follow this pattern 
 
 ###  Template Directory Structure
