@@ -6,6 +6,8 @@
 
 **For Demo** [click here](http://demo.dragdropsite.com/mpurpose)
 
+![alt tag](http://www.dragdropsite.com/wp-content/uploads/2014/03/mPurpose-template.jpg)
+
 ## Main Template Features
 
   * Responsive 
