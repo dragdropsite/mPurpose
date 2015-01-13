@@ -4,7 +4,7 @@
 
 **For More info** [click here](http://www.dragdropsite.com/freebies/mpurpose-free-multipurpose-twitter-bootstrap-3-template)
 
-**For Demo** [click here](http://demo.dragdropsite.com/mpurpose)
+**For Demo** [click here](http://www.dragdropsite.com/demo/mpurpose-free-multipurpose-twitter-bootstrap-3-template)
 
 ![alt tag](http://www.dragdropsite.com/wp-content/uploads/2014/03/mPurpose-template.jpg)
 
