@@ -1,6 +1,6 @@
 var mainMenu = (function() {
 
-	var $listItems = $( '#mainmenu > ul > li' ),
+	var $listItems = $( '#mainmenu > ul > li.has-submenu' ),
 		$menuItems = $listItems.children( 'a' ),
 		$body = $( 'body' ),
 		current = -1;
